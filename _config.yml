@@ -2,8 +2,8 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          junlim's blog
-paginate:       15
+title:          cheol2's blog
+paginate:       5
 baseurl:        ""
 url:            "https://aiasxp.github.io"
 
@@ -17,9 +17,9 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Jun
-  url:          https://hyungyunlim.github.io
-  email:        hyungyun.lim@gmail.com
+  name:         cheol2
+  url:          https://aiasxp.github.io
+  email:        aiasxp@gmail.com
 
 # Custom vars
 version:        3.4.1
