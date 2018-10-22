@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          junlim's blog
 paginate:       15
 baseurl:        ""
-url:            "https://hyungyunlim.github.io"
+url:            "https://aiasxp.github.io"
 
 # Assets
 sass:
